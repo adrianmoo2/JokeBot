@@ -4,7 +4,7 @@
   "description": "demonstrating npm",
   "main": "MadlibsBot.js",
   "scripts": {
-    "start": "node MadlibsBot.js",
+    "start": "node JokeBot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
