@@ -3,6 +3,8 @@ var config = require('./config');
 
 var T = new Twit(config);
 
+//Commented below is the followed functionality. Believe that the stream functionality is deprecated, so can no longer implement this complexity.
+
 /*
 //Setting up a user stream
 var stream = T.stream('user');
