@@ -1,0 +1,1 @@
+woker: node JokeBot.js
