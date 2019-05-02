@@ -1,1 +1,1 @@
-woker: node JokeBot.js
+worker: node JokeBot.js

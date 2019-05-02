@@ -51,6 +51,8 @@ function tweetJoke() {
     });
 }
 
+//tweetJoke();
+
 /*tweetJoke(function() {
   console.log(index);
   console.log("JokeTweet: " + jokeTweet);

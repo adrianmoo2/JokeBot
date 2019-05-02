@@ -2,7 +2,7 @@
   "name": "npm_demo",
   "version": "1.0.0",
   "description": "demonstrating npm",
-  "main": "MadlibsBot.js",
+  "main": "JokeBot.js",
   "scripts": {
     "start": "node JokeBot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
