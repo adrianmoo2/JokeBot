@@ -5,8 +5,10 @@ var joker = require('random-joke-getter')
 var T = new Twit(config);
 var jokeTweet = "ss";
 
-setInterval(tweetJoke, 1000*5);
 var index = Math.floor(Math.random()*3);
+
+tweetJoke();
+setInterval(tweetJoke, 1000*5);
 
 function tweetJoke() {
     function whichToTweet(callback){
