@@ -7,7 +7,6 @@ var jokeTweet = "ss";
 
 var index = Math.floor(Math.random()*3);
 
-//tweetJoke();
 setInterval(tweetJoke, 1000*60*60*12);
 
 function tweetJoke() {
